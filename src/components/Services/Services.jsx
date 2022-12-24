@@ -7,6 +7,7 @@ import Humble from "../../img/humble.png";
 import { themeContext } from "../../Context";
 import { motion } from "framer-motion";
 import Resume from './resume.pdf';
+import My_Cv from './My_Cv.pdf'
 
 const Services = () => {
   // context
@@ -30,7 +31,7 @@ const Services = () => {
 based applications for providing <br /> solutions for different situation. I was involved in
 the design and development process  <br /> for all applications, and I managed
 enhancement requests after each rollout.</strong></span>
-        <a href={Resume} download>
+        <a href={My_Cv} download>
           <button className="button s-button">Download CV</button>
         </a>
         <div className="blur s-blur1" style={{ background: "#ABF1FF94" }}></div>

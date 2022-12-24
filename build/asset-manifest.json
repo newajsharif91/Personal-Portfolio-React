@@ -1,8 +1,9 @@
 {
   "files": {
     "main.css": "/static/css/main.08ed7ad9.css",
-    "main.js": "/static/js/main.5f09d868.js",
+    "main.js": "/static/js/main.de8bf0a2.js",
     "static/media/Newaj.png": "/static/media/Newaj.b90b4e9597e986eb10bc.png",
+    "static/media/My_Cv.pdf": "/static/media/My_Cv.2f3fea3afbf78af9a12d.pdf",
     "static/media/Bike-Sale.png": "/static/media/Bike-Sale.43194c83b129468387bd.png",
     "static/media/Photograpy.png": "/static/media/Photograpy.644571bdf78b45441946.png",
     "static/media/E-learning.png": "/static/media/E-learning.b66af107af800f4a72c9.png",
@@ -17,10 +18,10 @@
     "static/media/glasses.png": "/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
     "index.html": "/index.html",
     "main.08ed7ad9.css.map": "/static/css/main.08ed7ad9.css.map",
-    "main.5f09d868.js.map": "/static/js/main.5f09d868.js.map"
+    "main.de8bf0a2.js.map": "/static/js/main.de8bf0a2.js.map"
   },
   "entrypoints": [
     "static/css/main.08ed7ad9.css",
-    "static/js/main.5f09d868.js"
+    "static/js/main.de8bf0a2.js"
   ]
 }
